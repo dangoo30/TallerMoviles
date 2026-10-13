@@ -79,7 +79,7 @@ Las imágenes se cargan desde internet, así que el dispositivo donde la pruebes
 
 ## Evidencias
 
-En la carpeta `evidencias/` dejé las capturas de las tres pantallas
+Te las envié en el correo
 
 ## Lo que aprendí
 ad
